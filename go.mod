@@ -65,7 +65,7 @@ require (
 	github.com/mattn/go-isatty v0.0.17
 	github.com/vultr/govultr/v2 v2.17.2
 	golang.org/x/exp v0.0.0-20230124195608-d38c7dcee874
-	golang.org/x/text v0.6.0
+	golang.org/x/text v0.7.0
 )
 
 require (
